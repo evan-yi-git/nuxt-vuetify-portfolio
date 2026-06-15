@@ -5,7 +5,7 @@
     <h4 class="text-subtitle-1 font-weight-black mb-3">1. 頁籤切換效果 (Tabs)</h4>
     <v-card flat class="border rounded-xl overflow-hidden bg-white mb-8">
       <v-tabs v-model="activeTab" bg-color="grey-lighten-4" color="primary" grow>
-        <v-tab value="tab-1" class="font-weight-bold">RWD 切版</v-tab>
+        <v-tab value="tab-1" class="font-weight-bold">RWD 切版2</v-tab>
         <v-tab value="tab-2" class="font-weight-bold">資料維運</v-tab>
       </v-tabs>
       <v-card-text class="pa-6">

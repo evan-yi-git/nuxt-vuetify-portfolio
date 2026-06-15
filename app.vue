@@ -8,7 +8,7 @@
       <v-spacer></v-spacer>
       <!-- 導覽模式切換控制面板 -->
       <v-btn-toggle v-model="currentView" mandatory variant="outlined" divided class="rounded-xl">
-        <v-btn value="gallery" class="text-caption font-weight-bold">精選專案</v-btn>
+        <v-btn value="gallery" class="text-caption font-weight-bold">精選專案2</v-btn>
         <v-btn value="components" class="text-caption font-weight-bold">高級互動組件庫</v-btn>
       </v-btn-toggle>
     </v-app-bar>
